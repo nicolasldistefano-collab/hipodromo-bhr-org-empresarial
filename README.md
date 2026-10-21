@@ -93,3 +93,12 @@ Se utilizaron asistentes de IA (**Gemini** y **Claude**) como soporte metodológ
 | Se enviaron capturas del diagrama preguntando qué más corregir | Revisión iterativa del diagrama | Verificar validez de la notación y coherencia con el texto |
 | Se consultó si los carriles podían tener eventos de inicio propios | Mejorar la lógica del proceso | Evaluar un disparador para el Hipódromo ("Inscripciones Abiertas") |
 | Se pidió redactar la descripción del flujo y un borrador del README | Alinear texto, diagrama y repositorio | Mantener consistencia entre el informe y el README; ambos fueron luego ajustados por el autor |
+
+### Correcciones humanas efectuadas sobre los resultados
+
+- **Pools y Lanes:** el primer diagrama tenía al Entrenador como Lane dentro del mismo Pool. Se lo separó en un Pool propio, comunicado mediante flujos de mensaje, como exige la notación para actores externos.
+- **Validación sanitaria:** se incorporó el rechazo veterinario al flujo para mantener coherencia con la Entrega 1 y con las metas de la Entrega 2.
+- **Orden lógico:** la validación pasó a ocurrir antes de la compuerta de decisión.
+- **Eventos:** se agregaron el evento de inicio "Inscripciones Abiertas" y el evento de fin "Confirmación enviada".
+- **KPI:** el objetivo de 0% de errores se ajustó a "cercana a 0%" por realismo.
+- **Control final:** todo el contenido fue revisado y adaptado por el integrante del proyecto, quien asume la responsabilidad intelectual y técnica del resultado.
