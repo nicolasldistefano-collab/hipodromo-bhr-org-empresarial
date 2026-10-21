@@ -4,7 +4,7 @@ Repositorio oficial de documentación técnica y artefactos del proyecto para la
 # Descripción del Sistema
 Plataforma integral de autogestión y automatización para anotaciones, abarcando desde la inscripción digital de Sangre Pura de Carrera (SPC), validaciones lógicas en sistema, ratificaciones/depurados, hasta la emisión automática del programa oficial de carreras.
 
-## ntegrantes (Comisión 3)
+## Integrantes (Comisión 3)
 * Nicolás Luciano Di Stefano
 
 # Enlaces de Interés
