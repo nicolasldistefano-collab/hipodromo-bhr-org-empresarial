@@ -20,7 +20,7 @@ El sistema abarca:
 ## Enlaces de Interés
 
 - [Tablero Ágil de Gestión (GitHub Projects)](https://github.com/users/nicolasldistefano-collab/projects/1)
-- [Diagrama BPMN](docs/diagrama-bpmn.png)
+- [Diagrama BPMN](diagrama-bpmn.png)
 
 ## Modelado de Procesos (BPMN)
 
