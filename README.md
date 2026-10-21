@@ -31,7 +31,7 @@ El proceso de **Inscripción, Depurados y Programa Oficial** se modeló con nota
 - **Tres flujos de mensaje** entre Pools: solicitud de inscripción, listado de inscriptos y confirmación de ejemplares.
 - **Compuertas exclusivas** para las excepciones del proceso: datos incompletos, rechazo veterinario y confirmar/borrar.
 
-![Diagrama BPMN] (diagrama.bpm)
+- [Descargar Diagrama BPMN del Proceso](./diagrama.bpm)
 
 ## Historias de Usuario
 
