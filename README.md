@@ -8,5 +8,5 @@ Plataforma integral de autogestión y automatización para anotaciones, abarcand
 * Nicolás Luciano Di Stefano
 
 # Enlaces de Interés
-* Tablero Ágil / Gestión de Proyecto: [GitHub Projects agregar]
+* Tablero Ágil / Gestión de Proyecto: (https://github.com/users/nicolasldistefano-collab/projects/1/views/1)
 * Modelado BPMN: Directorio de diagramas y exportaciones.
