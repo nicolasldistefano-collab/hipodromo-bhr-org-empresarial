@@ -10,3 +10,10 @@ Plataforma integral de autogestión y automatización para anotaciones, abarcand
 # Enlaces de Interés
 * Tablero Ágil / Gestión de Proyecto: (https://github.com/users/nicolasldistefano-collab/projects/1/views/1)
 * Modelado BPMN: Directorio de diagramas y exportaciones.
+
+---
+
+## Declaración de Transparencia en el Uso de Inteligencia Artificial
+Se utilizó asistencia de Inteligencia Artificial (Gemini) únicamente como soporte metodológico para la estructuración de diagramas BPMN, estandarización de Historias de Usuario y redacción de criterios de control. 
+
+Todo el contenido fue revisado, auditado y adaptado críticamente por el integrante del proyecto, asumiendo la responsabilidad intelectual y técnica sobre el resultado final presentado en la cátedra.
