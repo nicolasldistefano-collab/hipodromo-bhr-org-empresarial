@@ -77,7 +77,7 @@ Se utilizaron asistentes de IA (**Gemini** y **Claude**) como soporte metodológ
 **Prompt 2: Backlog Ágil e Historias de Usuario**
 > "Redactá 3 Historias de Usuario en formato formal ('Como [rol], quiero [funcionalidad], para [beneficio]') para gestionar en un tablero de GitHub Projects. Las historias deben cubrir: 1) Autogestión de inscripción web por el entrenador, 2) Ratificación/Depuración de ejemplares (forfait), y 3) Confección automatizada de la grilla del programa oficial por la Secretaría."
 
-*Justificación y corrección:* se usó para garantizar el formato formal exigido por la consigna. Se revisó y se adoptó sin cambios.
+*Justificación y corrección:* se usó para garantizar el formato formal exigido por la consigna. Se revisó.
 
 **Prompt 3: Indicadores Clave de Desempeño (KPIs)**
 > "Definí 3 indicadores clave de desempeño (KPIs) para auditar el éxito operativo del sistema tras su lanzamiento. Incluí métricas para medir la reducción de errores de transcripción manual (0%), el tiempo de procesamiento automático del borrador del programa oficial (< 3 minutos) y la tasa de adopción digital por parte de los entrenadores (> 85%)."
